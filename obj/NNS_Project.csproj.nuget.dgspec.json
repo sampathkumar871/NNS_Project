@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OSHRS LP 1\\source\\repos\\NNS_Project\\NNS_Project.csproj": {}
+    "C:\\Users\\OSHRS LP 1\\source\\repos\\New folder\\NNS_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OSHRS LP 1\\source\\repos\\NNS_Project\\NNS_Project.csproj": {
+    "C:\\Users\\OSHRS LP 1\\source\\repos\\New folder\\NNS_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OSHRS LP 1\\source\\repos\\NNS_Project\\NNS_Project.csproj",
+        "projectUniqueName": "C:\\Users\\OSHRS LP 1\\source\\repos\\New folder\\NNS_Project.csproj",
         "projectName": "NNS_Project",
-        "projectPath": "C:\\Users\\OSHRS LP 1\\source\\repos\\NNS_Project\\NNS_Project.csproj",
+        "projectPath": "C:\\Users\\OSHRS LP 1\\source\\repos\\New folder\\NNS_Project.csproj",
         "packagesPath": "C:\\Users\\OSHRS LP 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OSHRS LP 1\\source\\repos\\NNS_Project\\obj\\",
+        "outputPath": "C:\\Users\\OSHRS LP 1\\source\\repos\\New folder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             }
           },
           "imports": [
